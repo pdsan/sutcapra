@@ -187,7 +187,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   border-style: solid;
   border-width: 2px;
   cursor: pointer;
-  background-color: transparent;
+  background-color: #007bff ;
   border-color: #fff;
   color: #fff;
 }
@@ -1667,7 +1667,7 @@ button:focus {
 #carousel-area .carousel-item .carousel-caption h2 {
   font-size: 80px;
   font-weight: 700;
-  color: #fff;
+  color: #233a7f;
 }
 
 #carousel-area .carousel-item .carousel-caption h4 {
