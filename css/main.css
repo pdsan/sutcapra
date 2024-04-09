@@ -1681,7 +1681,8 @@ button:focus {
 #carousel-area .carousel-item .carousel-caption h2 {
   font-size: 80px;
   font-weight: 700;
-  color: #056cf2;
+  border: var(--color-cinco);
+  color: #fff;
 }
 
 #carousel-area .carousel-item .carousel-caption h4 {
