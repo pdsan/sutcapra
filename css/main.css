@@ -1201,7 +1201,7 @@ button:focus {
   margin-bottom: 20px;
 }
 
-.services-item .icon i {
+.services-item .icon i, .services-item .color-1 img {
   width: 60px;
   height: 60px;
   background: #f9f9f9;
@@ -1221,7 +1221,7 @@ button:focus {
   -o-transition: all 0.3s ease-in-out;
 }
 
-.services-item .color-1 i {
+.services-item .color-1 i, .services-item .color-1 img  {
   background: #DEDEDE;
   color: var(--color-dos) !important;
 }
