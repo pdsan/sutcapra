@@ -594,7 +594,7 @@ button:focus {
 }
 
 .collapse.show {
-  background: #3e3a3a;
+  /*background: #3e3a3a;*/
   margin-bottom: 10px;
   -webkit-transition: 0.6s;
   -moz-transition: 0.6s;
