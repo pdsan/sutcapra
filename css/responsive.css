@@ -272,19 +272,19 @@
     top: 40%;
   }
   #carousel-area .carousel-item .carousel-caption h3 {
-    font-size: 13px;
+    font-size: 23px;
   }
   #carousel-area .carousel-item .carousel-caption h2 {
-    font-size: 18px;
+    font-size: 30px;
   }
   #carousel-area .carousel-item .carousel-caption h4 {
-    font-size: 11px;
+    font-size: 18px;
   }
   #carousel-area .carousel-item .carousel-caption .btn {
     margin: 8px 5px;
-    padding: 7px 16px;
+    padding: 9px 20px;
     text-transform: capitalize;
-    font-size: 14px;
+    font-size: 18px;
   }
   #carousel-area .carousel-control-next i, #carousel-area .carousel-control-prev i {
     background: transparent !important;
